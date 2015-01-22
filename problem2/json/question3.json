@@ -1,0 +1,58 @@
+{
+ "highest_mean_value": {
+  "campaign": "558", 
+  "query_string": "predictive modeling"
+ }, 
+ "standard_deviations": [
+  {
+   "campaign": "59", 
+   "query_string": "advanced analytics", 
+   "standard_deviation": 77.5
+  }, 
+  {
+   "campaign": "31", 
+   "query_string": "advanced analytics", 
+   "standard_deviation": 77.5
+  }, 
+  {
+   "campaign": "203", 
+   "query_string": "building predictive models", 
+   "standard_deviation": 277.0
+  }, 
+  {
+   "campaign": "14", 
+   "query_string": "building predictive models", 
+   "standard_deviation": 277.0
+  }, 
+  {
+   "campaign": "17", 
+   "query_string": "data science", 
+   "standard_deviation": 97.0
+  }, 
+  {
+   "campaign": "23", 
+   "query_string": "data science", 
+   "standard_deviation": 97.0
+  }, 
+  {
+   "campaign": "103", 
+   "query_string": "predictive modeling", 
+   "standard_deviation": 102.5
+  }, 
+  {
+   "campaign": "558", 
+   "query_string": "predictive modeling", 
+   "standard_deviation": 102.5
+  }, 
+  {
+   "campaign": "127", 
+   "query_string": "data science training", 
+   "standard_deviation": 15.0
+  }, 
+  {
+   "campaign": "94", 
+   "query_string": "data science training", 
+   "standard_deviation": 15.0
+  }
+ ]
+}

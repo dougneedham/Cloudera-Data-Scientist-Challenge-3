@@ -1,0 +1,86 @@
+{
+ "1": {
+  "number_of_distinct_visitors_that_are_bots": 45015
+ }, 
+ "2": {
+  "overall_as_click_through_rate": 0.0098616640245077335
+ }, 
+ "3": {
+  "highest_mean_value": {
+   "campaign": "558", 
+   "query_string": "predictive modeling"
+  }, 
+  "standard_deviations": [
+   {
+    "campaign": "59", 
+    "query_string": "advanced analytics", 
+    "standard_deviation": 77.5
+   }, 
+   {
+    "campaign": "31", 
+    "query_string": "advanced analytics", 
+    "standard_deviation": 77.5
+   }, 
+   {
+    "campaign": "203", 
+    "query_string": "building predictive models", 
+    "standard_deviation": 277.0
+   }, 
+   {
+    "campaign": "14", 
+    "query_string": "building predictive models", 
+    "standard_deviation": 277.0
+   }, 
+   {
+    "campaign": "17", 
+    "query_string": "data science", 
+    "standard_deviation": 97.0
+   }, 
+   {
+    "campaign": "23", 
+    "query_string": "data science", 
+    "standard_deviation": 97.0
+   }, 
+   {
+    "campaign": "103", 
+    "query_string": "predictive modeling", 
+    "standard_deviation": 102.5
+   }, 
+   {
+    "campaign": "558", 
+    "query_string": "predictive modeling", 
+    "standard_deviation": 102.5
+   }, 
+   {
+    "campaign": "127", 
+    "query_string": "data science training", 
+    "standard_deviation": 15.0
+   }, 
+   {
+    "campaign": "94", 
+    "query_string": "data science training", 
+    "standard_deviation": 15.0
+   }
+  ]
+ }, 
+ "4": {
+  "number_of_full_days_for_confidence": 3, 
+  "overall_signup_rate": {
+   "experiment1": 0.04374704418411729, 
+   "experiment2": 0.042834133180341592, 
+   "experiment3": 0.045366443639859519, 
+   "experiment4": 0.041214733724599363
+  }, 
+  "performance_of_experiment_1_versus_2": 0.0035629271684456156, 
+  "performance_of_experiment_3_versus_4": 1.622207496964805e-52
+ }, 
+ "5": {
+  "mean_revenue_per_visit": {
+   "experiment1": 0.016381617251686333, 
+   "experiment2": 0.016554128550132965, 
+   "experiment3": 0.016095721511115501, 
+   "experiment4": 0.016840024290703796
+  }, 
+  "number_of_full_days_for_confidence": 4
+ }
+}

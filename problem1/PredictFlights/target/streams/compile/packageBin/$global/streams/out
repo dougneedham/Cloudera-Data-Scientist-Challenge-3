@@ -1,0 +1,31 @@
+[0m[[0minfo[0m] [0mPackaging /home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/target/scala-2.10/predictflights_2.10-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	PredictFlights$$anonfun$main$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/target/scala-2.10/classes/PredictFlights$$anonfun$main$1.class[0m
+[0m[[0mdebug[0m] [0m	PredictFlights$$anonfun$5.class[0m
+[0m[[0mdebug[0m] [0m	  /home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/target/scala-2.10/classes/PredictFlights$$anonfun$5.class[0m
+[0m[[0mdebug[0m] [0m	PredictFlights$.class[0m
+[0m[[0mdebug[0m] [0m	  /home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/target/scala-2.10/classes/PredictFlights$.class[0m
+[0m[[0mdebug[0m] [0m	PredictFlights$$anonfun$PredictFlights$$train_and_predict$1$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/target/scala-2.10/classes/PredictFlights$$anonfun$PredictFlights$$train_and_predict$1$1.class[0m
+[0m[[0mdebug[0m] [0m	PredictFlights$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/target/scala-2.10/classes/PredictFlights$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	PredictFlights$$anonfun$8.class[0m
+[0m[[0mdebug[0m] [0m	  /home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/target/scala-2.10/classes/PredictFlights$$anonfun$8.class[0m
+[0m[[0mdebug[0m] [0m	PredictFlights$$anonfun$PredictFlights$$process_recover_file$1$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/target/scala-2.10/classes/PredictFlights$$anonfun$PredictFlights$$process_recover_file$1$1.class[0m
+[0m[[0mdebug[0m] [0m	PredictFlights$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	  /home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/target/scala-2.10/classes/PredictFlights$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	PredictFlights$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	  /home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/target/scala-2.10/classes/PredictFlights$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	PredictFlights$$anonfun$main$2.class[0m
+[0m[[0mdebug[0m] [0m	  /home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/target/scala-2.10/classes/PredictFlights$$anonfun$main$2.class[0m
+[0m[[0mdebug[0m] [0m	PredictFlights.class[0m
+[0m[[0mdebug[0m] [0m	  /home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/target/scala-2.10/classes/PredictFlights.class[0m
+[0m[[0mdebug[0m] [0m	PredictFlights$$anonfun$7.class[0m
+[0m[[0mdebug[0m] [0m	  /home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/target/scala-2.10/classes/PredictFlights$$anonfun$7.class[0m
+[0m[[0mdebug[0m] [0m	PredictFlights$$anonfun$6.class[0m
+[0m[[0mdebug[0m] [0m	  /home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/target/scala-2.10/classes/PredictFlights$$anonfun$6.class[0m
+[0m[[0mdebug[0m] [0m	PredictFlights$$anonfun$4.class[0m
+[0m[[0mdebug[0m] [0m	  /home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/target/scala-2.10/classes/PredictFlights$$anonfun$4.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m

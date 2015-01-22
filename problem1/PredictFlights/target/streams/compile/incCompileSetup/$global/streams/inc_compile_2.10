@@ -1,0 +1,254 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/target/scala-2.10/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.4
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+12 items
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> /home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/target/scala-2.10/classes/PredictFlights$$anonfun$1.class
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> /home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/target/scala-2.10/classes/PredictFlights$$anonfun$2.class
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> /home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/target/scala-2.10/classes/PredictFlights$$anonfun$3.class
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> /home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/target/scala-2.10/classes/PredictFlights$$anonfun$4.class
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> /home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/target/scala-2.10/classes/PredictFlights$$anonfun$5.class
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> /home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/target/scala-2.10/classes/PredictFlights$$anonfun$6.class
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> /home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/target/scala-2.10/classes/PredictFlights$$anonfun$PredictFlights$$process_recover_file$1$1.class
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> /home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/target/scala-2.10/classes/PredictFlights$$anonfun$PredictFlights$$train_and_predict$1$1.class
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> /home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/target/scala-2.10/classes/PredictFlights$$anonfun$main$1.class
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> /home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/target/scala-2.10/classes/PredictFlights$$anonfun$main$2.class
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> /home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/target/scala-2.10/classes/PredictFlights$.class
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> /home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/target/scala-2.10/classes/PredictFlights.class
+binary dependencies:
+4 items
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> /home/dln/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.1.0.jar
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> /home/dln/.ivy2/cache/org.apache.spark/spark-mllib_2.10/jars/spark-mllib_2.10-1.1.0.jar
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> /home/dln/.sbt/boot/scala-2.10.4/lib/scala-library.jar
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> /usr/lib/jvm/java-1.7.0-openjdk-1.7.0.71.x86_64/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+12 items
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> PredictFlights
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> PredictFlights$
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> PredictFlights$$anonfun$1
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> PredictFlights$$anonfun$2
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> PredictFlights$$anonfun$3
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> PredictFlights$$anonfun$4
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> PredictFlights$$anonfun$5
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> PredictFlights$$anonfun$6
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> PredictFlights$$anonfun$PredictFlights$$process_recover_file$1$1
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> PredictFlights$$anonfun$PredictFlights$$train_and_predict$1$1
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> PredictFlights$$anonfun$main$1
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> PredictFlights$$anonfun$main$2
+used names:
+131 items
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> *
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> +
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> +=
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> <init>
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> ==
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> >
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> AnyRef
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> Array
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> BinaryClassificationMetrics
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> ClassTag
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> Double
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> Flight_ListRDD
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> L1Updater
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> LabeledPoint
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> ListBuffer
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> Long
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> MLUtils
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> Master_List
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> New_List
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> Ordering
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> Predef
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> PredictFlights
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> PublishScoreAndLabels
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> Recover_File_List
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> SVMWithSGD
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> SparkConf
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> SparkContext
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> SquaredL2Updater
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> StandardScaler
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> String
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> System
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> TestScoreAndLabels
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> Tuple2
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> Unit
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> Vectors
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> _1
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> _2
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> add_to_master
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> airport
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> apache
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> apply
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> areaUnderROC
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> arg1
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> arg2
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> args
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> auroc
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> base_path
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> cache
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> classification
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> collect
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> collection
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> count
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> data
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> dense
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> driver
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> driver_file_name
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> evaluation
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> feature
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> features
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> fit
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> flightid
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> foreach
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> gc
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> general_scaler
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> input_file
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> java
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> label
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> label_data
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> lang
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> length
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> linalg
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> loadLibSVMFile
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> map
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> materializeClassTag
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> math
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> mllib
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> model
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> mutable
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> ne
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> numIterations
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> optimization
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> optimizer
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> org
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> package
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> parallelize
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> point
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> predict
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> predict_file
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> predict_scaled_data
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> println
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> process_recover_file
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> randomSplit
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> rdd
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> record_prediction
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> refArrayOps
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> regression
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> reverse
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> run
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> saveAsTextFile
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> sc
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> scala
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> score
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> setAppName
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> setNumIterations
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> setRegParam
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> setStepSize
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> sort_order
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> sorted
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> spark
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> splits
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> svmSGD
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> test_input
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> test_scaled_data
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> testauROC
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> testmetrics
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> textFile
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> tmpString
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> toArray
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> toLong
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> toString
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> train_and_predict
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> training_input
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> training_scaled_data
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> transform
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> trim
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> tst1
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> tst2
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> unchecked
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> unpersist
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> util
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> x
+product stamps:
+12 items
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/target/scala-2.10/classes/PredictFlights$$anonfun$1.class -> lastModified(1420282440000)
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/target/scala-2.10/classes/PredictFlights$$anonfun$2.class -> lastModified(1420282440000)
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/target/scala-2.10/classes/PredictFlights$$anonfun$3.class -> lastModified(1420282440000)
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/target/scala-2.10/classes/PredictFlights$$anonfun$4.class -> lastModified(1420282440000)
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/target/scala-2.10/classes/PredictFlights$$anonfun$5.class -> lastModified(1420282440000)
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/target/scala-2.10/classes/PredictFlights$$anonfun$6.class -> lastModified(1420282440000)
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/target/scala-2.10/classes/PredictFlights$$anonfun$PredictFlights$$process_recover_file$1$1.class -> lastModified(1420282440000)
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/target/scala-2.10/classes/PredictFlights$$anonfun$PredictFlights$$train_and_predict$1$1.class -> lastModified(1420282440000)
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/target/scala-2.10/classes/PredictFlights$$anonfun$main$1.class -> lastModified(1420282440000)
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/target/scala-2.10/classes/PredictFlights$$anonfun$main$2.class -> lastModified(1420282440000)
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/target/scala-2.10/classes/PredictFlights$.class -> lastModified(1420282440000)
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/target/scala-2.10/classes/PredictFlights.class -> lastModified(1420282440000)
+source stamps:
+1 items
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> hash(82f5a40f44d219d02d020ed006b7d258fe3581b0)
+binary stamps:
+4 items
+/home/dln/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.1.0.jar -> lastModified(1409722360000)
+/home/dln/.ivy2/cache/org.apache.spark/spark-mllib_2.10/jars/spark-mllib_2.10-1.1.0.jar -> lastModified(1409722767000)
+/home/dln/.sbt/boot/scala-2.10.4/lib/scala-library.jar -> lastModified(1395179187000)
+/usr/lib/jvm/java-1.7.0-openjdk-1.7.0.71.x86_64/jre/lib/rt.jar -> lastModified(1412342295000)
+class names:
+4 items
+/home/dln/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.1.0.jar -> org.apache.spark.SparkConf
+/home/dln/.ivy2/cache/org.apache.spark/spark-mllib_2.10/jars/spark-mllib_2.10-1.1.0.jar -> org.apache.spark.mllib.util.MLUtils$
+/home/dln/.sbt/boot/scala-2.10.4/lib/scala-library.jar -> scala.Array$
+/usr/lib/jvm/java-1.7.0-openjdk-1.7.0.71.x86_64/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+1 items
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDZDzfkAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cKdeZ/F0AAZub3RpZnlzcQB+AAwZIjE3dAAEd2FpdHNxAH4ADCoTh4B0AA0kYXNJbnN0YW5jZU9mc3EAfgAMunCD6nQABmVxdWFsc3NxAH4ADGCx7850AAxhc0luc3RhbmNlT2ZzcQB+AAyPTKZtdAAMc3luY2hyb25pemVkc3EAfgAMYTc5ZHQADSRpc0luc3RhbmNlT2ZzcQB+AAxNCm6RdAAEbWFpbnNxAH4ADAXOKIh0AAlub3RpZnlBbGxzcQB+AAxVK+npdAAMaXNJbnN0YW5jZU9mc3EAfgAMXPiTG3QAAj09c3EAfgAMcisGBnQADlByZWRpY3RGbGlnaHRzc3EAfgAM1BvjP3QABWNsb25lc3EAfgAMqyrsz3QACHRvU3RyaW5nc3EAfgAM+UVLEHQAAiE9c3EAfgAMOIH8SHQACGdldENsYXNzc3EAfgAMozEYRnQAAm5lc3EAfgAMWEjSKnQAAmVxc3EAfgAMcCIzDnQAAiMjc3EAfgAM8KEqVnQACGZpbmFsaXplc3EAfgAMSq7ELnQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHEAfgAldXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AWXhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AWABwc3EAfgBdc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEFMAAlpbmhlcml0ZWRxAH4AQUwAB3BhcmVudHNxAH4AQXhxAH4AYXNxAH4AWABwc3EAfgBddXEAfgA8AAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBCcQB+AEt1cQB+AEwAAAAAc3EAfgBOAHEAfgAddXEAfgBQAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGB0AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBgc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB+dXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4Aa3hwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AU3QABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AclsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AYHNxAH4AcXQABUFycmF5cQB+AHd1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AcXQABlN0cmluZ3NxAH4AdXNxAH4AeHVxAH4AewAAAANzcQB+AH10AARqYXZhc3EAfgB9dAAEbGFuZ3EAfgCCc3EAfgBYAHBzcQB+AF11cQB+ADwAAAAAc3EAfgBYAHBzcQB+AF11cQB+AJYAAAACc3EAfgBxdAAGT2JqZWN0cQB+AJpzcQB+AHF0AANBbnlxAH4Ad3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFKr24dBHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AFQvaG9tZS9kbG4vMjAxNTAxMDIvRG91Z05lZWRoYW1EU0MzL3Byb2JsZW0xL1ByZWRpY3RGbGlnaHRzL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSC9aQPRNIZ0C0CDtAGt9JY/jWBsA==
+external apis:
+0 items
+source infos:
+1 items
+/home/dln/20150102/DougNeedhamDSC3/problem1/PredictFlights/PredictFlights.scala -> 
+AAAAAAAAAAA=
+compilations:
+10 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSm5PtFB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASy9ob21lL2Rsbi8yMDE0MTIyMS9zdWJtaXNzaW9uL3Byb2JsZW0xL3ByZWRpY3Rpb24vdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSpLFnqJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASy9ob21lL2Rsbi8yMDE0MTIyOC9zdWJtaXNzaW9uL3Byb2JsZW0xL3ByZWRpY3Rpb24vdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSpPxxcp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASy9ob21lL2Rsbi8yMDE0MTIyOC9zdWJtaXNzaW9uL3Byb2JsZW0xL3ByZWRpY3Rpb24vdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSpQI8Qd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASy9ob21lL2Rsbi8yMDE0MTIyOC9zdWJtaXNzaW9uL3Byb2JsZW0xL3ByZWRpY3Rpb24vdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSpXF7qB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASy9ob21lL2Rsbi8yMDE0MTIyOS9zdWJtaXNzaW9uL3Byb2JsZW0xL3ByZWRpY3Rpb24vdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+5 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSpXr43d1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASy9ob21lL2Rsbi8yMDE0MTIyOS9zdWJtaXNzaW9uL3Byb2JsZW0xL3ByZWRpY3Rpb24vdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+6 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSpYZw2d1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATy9ob21lL2Rsbi8yMDE0MTIyOS9zdWJtaXNzaW9uL3Byb2JsZW0xL1ByZWRpY3RGbGlnaHRzL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
+7 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSqpG5011cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATy9ob21lL2Rsbi8yMDE0MTIzMS9zdWJtaXNzaW9uL3Byb2JsZW0xL1ByZWRpY3RGbGlnaHRzL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
+8 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSqpPmGR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATy9ob21lL2Rsbi8yMDE0MTIzMS9zdWJtaXNzaW9uL3Byb2JsZW0xL1ByZWRpY3RGbGlnaHRzL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
+9 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSq9uHQR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVC9ob21lL2Rsbi8yMDE1MDEwMi9Eb3VnTmVlZGhhbURTQzMvcHJvYmxlbTEvUHJlZGljdEZsaWdodHMvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
