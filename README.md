@@ -48,12 +48,12 @@ The structure of the directories for the code is as follows (The output director
   -  json
   -  log
 - problem3
-..-  AnalyzeGraph
-..-  data
-..- final
-..-  inGraph
-..-  OutGraph
-..- log
+  -  AnalyzeGraph
+  -  data
+  - final
+  -  inGraph
+  -  OutGraph
+  - log
 
 The shell script to run each problem is in the individual problem directory.
 - problem1/problem1.sh
