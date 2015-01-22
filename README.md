@@ -39,10 +39,10 @@ The structure of the directories for the code is as follows (The output director
 
 - answer
 - problem1
-..-  analysis
-..-  data
-..-  log
-..-  PredictFlights
+..*  analysis
+..*  data
+..*  log
+..*  PredictFlights
 - problem2
 ..-  data
 ..-  json
