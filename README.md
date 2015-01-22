@@ -3,8 +3,6 @@
 
 [The Cloudera Data Science Challenge 3 Description](http://www.cloudera.com/content/cloudera/en/training/certification/ccp-ds/challenge/challenge3.html)
 
-[The Cloudera Data Science Challenge 3 Description]: (http://www.cloudera.com/content/cloudera/en/training/certification/ccp-ds/challenge/challenge3.html)
-
 The proper write up for this solution is in this directory as Doug_Needham_DSC3_Write_Up.pdf 
 
 The assumptions for this code is that it will run under the userid "dln"
