@@ -39,21 +39,21 @@ The structure of the directories for the code is as follows (The output director
 
 - answer
 - problem1
---  analysis
---  data
---  log
---  PredictFlights
+..-  analysis
+..-  data
+..-  log
+..-  PredictFlights
 - problem2
---  data
---  json
---  log
+..-  data
+..-  json
+..-  log
 - problem3
---  AnalyzeGraph
---  data
---  final
---  inGraph
---  OutGraph
---  log
+..-  AnalyzeGraph
+..-  data
+..- final
+..-  inGraph
+..-  OutGraph
+..- log
 
 The shell script to run each problem is in the individual problem directory.
 - problem1/problem1.sh
