@@ -1,7 +1,7 @@
 ## This is the submission package for Doug Needham
 ## Data Science Challenge 3
 
-[I'm an inline-style link](https://www.google.com)
+[The Cloudera Data Science Challenge 3 Description](https://www.google.com)
 
 [The Cloudera Data Science Challenge 3 Description]: (http://www.cloudera.com/content/cloudera/en/training/certification/ccp-ds/challenge/challenge3.html)
 
